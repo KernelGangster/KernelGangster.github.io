@@ -9,11 +9,11 @@ Email : serena0819aa@gmail.com
 
 
 ## Interests
-* Software Security
+* ***Software Security***
     * Finding 0day Vulnerability, Fuzzing, Software Exploitation
     * Low level software (**Kernel**, Hypervisor, SMM, ..)
     * Privilege Escalation, Memory Corruption, Logical Bug
-* Mobile & Embedded Security
+* ***Mobile & Embedded Security***
     * BaseBand, Wifi, TEE, SGX..
 
 ## Work Experience
