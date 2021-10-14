@@ -1,4 +1,4 @@
-I"<p><img src="/assets/images/meme.jpg" width="25%" height="30%" title="young me" alt="profile_picture" /><br />
+I"<p><img src="/assets/images/meme.jpg" width="25%" height="30%" title="young me" alt="profile_picture" /><br />
 Name : Seonung Jang<br />
 Country : South Korea<br />
 Email : serena0819aa@gmail.com</p>
@@ -10,6 +10,11 @@ Email : serena0819aa@gmail.com</p>
       <li>Finding 0day Vulnerability, Fuzzing, Software Exploitation</li>
       <li>Low level software (<strong>Kernel</strong>, Hypervisor, SMM, ..)</li>
       <li>Privilege Escalation, Memory Corruption, Logical Bug</li>
+    </ul>
+  </li>
+  <li>Mobile &amp; Embedded Security
+    <ul>
+      <li>BaseBand, Wifi, TEE, SGX..</li>
     </ul>
   </li>
 </ul>

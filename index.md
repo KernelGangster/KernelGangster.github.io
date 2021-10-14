@@ -13,6 +13,8 @@ Email : serena0819aa@gmail.com
     * Finding 0day Vulnerability, Fuzzing, Software Exploitation
     * Low level software (**Kernel**, Hypervisor, SMM, ..)
     * Privilege Escalation, Memory Corruption, Logical Bug
+* Mobile & Embedded Security
+    * BaseBand, Wifi, TEE, SGX..
 
 ## Work Experience
 * [STEALIEN](https://www.stealien.com/main)
