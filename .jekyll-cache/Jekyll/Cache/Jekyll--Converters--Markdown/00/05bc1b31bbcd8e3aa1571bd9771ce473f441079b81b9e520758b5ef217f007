@@ -1,0 +1,26 @@
+I"<p><img src="/assets/images/meme.jpg" width="25%" height="30%" title="young me" alt="profile_picture" /><br />
+Name : Seonung Jang<br />
+Country : South Korea<br />
+Email : serena0819aa@gmail.com</p>
+
+<h2 id="interests">Interests</h2>
+<ul>
+  <li>Software Security
+    <ul>
+      <li>Finding 0day Vulnerability, Fuzzing, Software Exploitation</li>
+      <li>Low level software (<strong>Kernel</strong>, Hypervisor, SMM, ..)</li>
+      <li>Privilege Escalation, Memory Corruption, Logical Bug</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="work-experience">Work Experience</h2>
+<ul>
+  <li><a href="https://www.stealien.com/main">STEALIEN</a>
+    <ul>
+      <li>Software Security Engineer (Exploit Development, Vulnerability Analysis, Pentesting)</li>
+      <li>2018.02 ~</li>
+    </ul>
+  </li>
+</ul>
+:ET
