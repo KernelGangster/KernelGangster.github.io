@@ -2,7 +2,7 @@
 layout: default
 #title: About
 ---
-<img src="/assets/images/meme.jpg" width="25%" height="30%" title="young me" alt="profile_picture">  
+<img src="/assets/images/meme.jpg" width="400" height="790" title="young me" alt="profile_picture">  
 Name : Seonung Jang  
 Country : South Korea  
 Email : serena0819aa@gmail.com  
