@@ -17,6 +17,46 @@ Email : serena0819aa@gmail.com
     * BaseBand, Wifi, TEE, SGX..
 
 ## Work Experience
-* [STEALIEN](https://www.stealien.com/main)
+* [STEALIEN](https://www.stealien.com/main) (2018.02 ~)
     * Software Security Engineer (Exploit Development, Vulnerability Analysis, Pentesting)
-    * 2018.02 ~
+
+
+## Competition Team
+* dcua (2016.06 ~ 2017.06)
+* CodeRed (2013.04 ~ 2015.01)
+
+
+## Bug Report
+<p>crypto: fmp: potential deadlock for fmp_run_AES_CBC_MCT
+<img style="float:left;margin:0px;margin-right: 5px" width="24" height="20" src="/assets/images/android.png" alt="android_icon">
+<img style="float:left;margin:0px;margin-right: 20px;" width="24" height="20" src="/assets/images/linux.svg" alt="linux_icon">
+</p>
+
+<p>gpu: arm: b_rxxp0: integer overflow from struct kbase_ctx_ext_res_meta
+<img style="float:left;margin:0px;margin-right: 5px" width="24" height="20" src="/assets/images/android.png" alt="android_icon">
+<img style="float:left;margin:0px;margin-right: 20px;" width="24" height="20" src="/assets/images/linux.svg" alt="linux_icon">
+</p>
+
+<p>Win32k Information Disclosure Vulnerability (CVE-2019-1436)
+<img style="float:left;margin:0px;margin-right: 5px" width="24" height="20" src="/assets/images/window_icon.png" alt="window_icon">
+<img style="float:left;margin:0px;margin-right: 20px;" width="24" height="20" src="/assets/images/mic.png" alt="window_icon">
+</p>
+
+<p>Windows GDI Information Disclosure Vulnerability (CVE-2018-0750)
+<img style="float:left;margin:0px;margin-right: 5px;" width="24" height="20" src="/assets/images/window_icon.png" alt="window_icon" hspace=10>
+<img style="float:left;margin:0px;margin-right: 20px;" width="24" height="20" src="/assets/images/mic.png" alt="window_icon">
+</p>
+
+<p>Windows GDI Information Disclosure Vulnerability (CVE-2017-11852)
+<img style="float:left;margin:0px;margin-right: 5px" width="24" height="20" src="/assets/images/window_icon.png" alt="window_icon">
+<img style="float:left;margin:0px;margin-right: 20px;" width="24" height="20" src="/assets/images/mic.png" alt="window_icon">
+</p>
+
+<p>Microsoft Browser Elevation of Privilege Vulnerability (CVE-2018-8357)
+<img style="float:left;margin:0px;margin-right: 5px" width="24" height="20" src="/assets/images/ms_edge.png" alt="window_icon">
+<img style="float:left;margin-right: 20px;" width="24" height="20" src="/assets/images/ie_icon.png" alt="window_icon">
+</p>
+
+<p>Microsoft Edge Security Feature Bypass Vulnerability (CVE-2018-8351)
+<img style="float:left;margin:0px;margin-left: 30px; margin-right: 20px;" width="24" height="20" src="/assets/images/ms_edge.png" alt="window_icon">
+</p>
