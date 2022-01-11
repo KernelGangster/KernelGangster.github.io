@@ -30,6 +30,13 @@ Email : serena0819aa@gmail.com
 <p>
 <img style="float:left;margin:0px;margin-right: 5px" width="24" height="20" src="/assets/images/android.png" alt="android_icon">
 <img style="float:left;margin:0px;margin-right: 20px;" width="24" height="20" src="/assets/images/linux.svg" alt="linux_icon">
+Use-After-Free bug in NPU driver (CVE-2022-22265, SVE-2021-23365)
+</p>
+
+
+<p>
+<img style="float:left;margin:0px;margin-right: 5px" width="24" height="20" src="/assets/images/android.png" alt="android_icon">
+<img style="float:left;margin:0px;margin-right: 20px;" width="24" height="20" src="/assets/images/linux.svg" alt="linux_icon">
 crypto: fmp: potential deadlock for fmp_run_AES_CBC_MCT
 </p>
 
