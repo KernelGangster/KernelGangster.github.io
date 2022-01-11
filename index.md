@@ -7,6 +7,9 @@ Name : Seonung Jang
 Country : South Korea  
 Email : serena0819aa@gmail.com  
 
+## Bio
+0day Vulnerability Researcher, **Super big fan of lokihardt**
+
 
 ## Interests
 * ***Software Security***
