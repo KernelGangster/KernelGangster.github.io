@@ -5,8 +5,10 @@ layout: default
 <img src="/assets/images/meme.jpg" width="400" height="790" title="young me" alt="profile_picture">  
 
 ### About
-Jack Seonung Jang (aka "Seonunghardt")  
-0day@kernel.engineer  
+Jack Seonung Jang (aka "Seonunghardt")   
+[0day@kernel.engineer](mailto:0day@kernel.engineer)  
+[@IFdLRx4At1WFm74](https://twitter.com/IFdLRx4At1WFm74)  
+[@seonung_](https://www.instagram.com/seonung_/)  
 
 ### Bio
 🐛🦋🐞💥💣😎  

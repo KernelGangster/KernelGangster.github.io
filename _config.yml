@@ -42,10 +42,10 @@ permalink: /:year/:month/:day/:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: 0day@kernel.engineer
+  email: 
   facebook:
   github:
-  instagram: seonung_
+  instagram: 
   linkedin:
   rss: # just type anything here for a working RSS icon
   twitter:
