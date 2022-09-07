@@ -36,6 +36,13 @@ Jack Seonung Jang (aka "Seonunghardt")
 <p>
 <img style="float:left;margin:0px;margin-right: 5px" width="24" height="20" src="/assets/images/android.png" alt="android_icon">
 <img style="float:left;margin:0px;margin-right: 20px;" width="24" height="20" src="/assets/images/linux.svg" alt="linux_icon">
+Use-After-Free in Synx Driver (CVE-2022-22095)
+</p>
+
+
+<p>
+<img style="float:left;margin:0px;margin-right: 5px" width="24" height="20" src="/assets/images/android.png" alt="android_icon">
+<img style="float:left;margin:0px;margin-right: 20px;" width="24" height="20" src="/assets/images/linux.svg" alt="linux_icon">
 Use-After-Free in Automotive OS Platform Android (CVE-2022-22071)
 </p>
 
