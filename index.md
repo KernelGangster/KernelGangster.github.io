@@ -36,6 +36,12 @@ Jack Seonung Jang (aka "Seonunghardt")
 <p>
 <img style="float:left;margin:0px;margin-right: 5px" width="24" height="20" src="/assets/images/android.png" alt="android_icon">
 <img style="float:left;margin:0px;margin-right: 20px;" width="24" height="20" src="/assets/images/linux.svg" alt="linux_icon">
+Use-After-Free in DIAG (CVE-2022-25677)
+</p>
+
+<p>
+<img style="float:left;margin:0px;margin-right: 5px" width="24" height="20" src="/assets/images/android.png" alt="android_icon">
+<img style="float:left;margin:0px;margin-right: 20px;" width="24" height="20" src="/assets/images/linux.svg" alt="linux_icon">
 Use-After-Free in DSP Services (CVE-2022-25666)
 </p>
 
