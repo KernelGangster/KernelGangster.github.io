@@ -5,8 +5,9 @@ layout: default
 
 ### About
 Jack Seonung Jang   
-[0day@kernel.engineer](mailto:0day@kernel.engineer)  
+[jack@kernel.engineer](mailto:jack@kernel.engineer)  
 [@IFdLRx4At1WFm74](https://twitter.com/IFdLRx4At1WFm74)  
+[@jack99@nso.group](https://nso.group/@jack99) 
 
 ### Bio
 🐛🦋🐞💥💣😎  
@@ -23,6 +24,9 @@ Jack Seonung Jang
 ### Work Experience
 * [STEALIEN](https://www.stealien.com/main) (2018.02.02 ~ 2022.03.25)
     * Software Security Engineer (Exploit Development, Vulnerability Analysis, Pentesting)
+
+* [DATAFLOW SECURITY](https://dfsec.com/) (2022.04 ~ )
+    * Security Researcher (Exploit Development, Vulnerability Research)
 
 
 ### Competition Team

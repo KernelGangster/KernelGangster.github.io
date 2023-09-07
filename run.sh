@@ -1,6 +1,6 @@
 #!/bin/bash
 
-bundle exec jekyll serve --host=172.30.1.53
+bundle exec jekyll serve
 rm -r .jekyll-cache
 
 
